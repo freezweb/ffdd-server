@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 #version="1.1.0"
 REV="T_RELEASE_latest" # means git rev/branch/tag
-REPO_URL='https://github.com/Freifunk-Dresden/ffdd-server'
+REPO_URL='https://github.com/freezweb/ffdd-server'
 #
 INSTALL_DIR='/srv/ffdd-server'
 INIT_DATE_FILE='/etc/freifunk-server-initdate'

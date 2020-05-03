@@ -70,7 +70,7 @@ awk -v arg1="$ARG1" -v arg2="$ARG2" '
 	if(!match(node,/^[0-9]+$/) || node > ENVIRON["NODE_MAX"] )
 	{ print "invalid node"; exit 1 }
 
-	domain  = "freifunk-dresden.de"
+	domain  = "freifunk-schwaben.de"
 
 	_primary_major		= 200
 	_nonprimary_major	= 201
